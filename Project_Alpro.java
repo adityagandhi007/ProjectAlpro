@@ -1,6 +1,6 @@
         import java.util.Scanner;
         import java.util.ArrayList;
-        public class Percobaan {
+        public class Project_Alpro {
             static Scanner scan = new Scanner(System.in);
             static String yn;
             // inisialisasi pembayaran awal
